@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+alpaca-py
+python-dateutil
+pytz
+numpy
