@@ -1,1 +1,7 @@
-{"is_active": false, "last_run": None, "position": None, "entry_price": None, "position_size": None}
+{
+  "is_active": false,
+  "last_run": null,
+  "position": null,
+  "entry_price": null,
+  "position_size": null
+}
